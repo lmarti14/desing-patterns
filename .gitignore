@@ -4,7 +4,7 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-.idea
+/.idea
 *.iws
 *.iml
 *.ipr
@@ -16,7 +16,7 @@ target/
 .project
 .settings
 .springBeans
-.sts4-cache
+
 
 ### NetBeans ###
 /nbproject/private/

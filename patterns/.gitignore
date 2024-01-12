@@ -4,6 +4,7 @@ target/
 !**/src/test/**/target/
 
 # IDEs and editors
+.idea
 /.idea
 .project
 .classpath
